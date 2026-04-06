@@ -1,7 +1,6 @@
 {
   "name": "english-daily-server",
   "version": "1.0.0",
-  "description": "Server proxy per English Daily",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
