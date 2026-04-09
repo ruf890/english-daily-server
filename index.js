@@ -1,3 +1,4 @@
+console.log("VERSION 2 - route /api/generate attiva");
 const express = require("express");
 const fetch = require("node-fetch");
 
